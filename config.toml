@@ -1,0 +1,4 @@
+baseURL = "https://pianosongs-popipu33.vercel.app"
+languageCode = "en-us"
+title = "Piano Chord Music Songs"
+theme = "hugo-theme-minos"
